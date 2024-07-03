@@ -1,0 +1,82 @@
+{
+  "listings": [
+    {
+      "id": "1",
+      "estate_title": "Large Warehouse Facility",
+      "segment_name": "Warehouses",
+      "description": "Spacious warehouse suitable for storage and distribution purposes.",
+      "big_desc": "This expansive warehouse facility offers ample space for storage and distribution operations. Featuring high ceilings and wide aisles, it is ideal for housing large quantities of goods. Equipped with modern amenities such as loading docks and a state-of-the-art security system, it ensures the safety and efficiency of your inventory management. With its strategic location in Industrial Zone A, City X, it provides convenient access to major transportation routes, facilitating seamless logistics. Don't miss this opportunity to optimize your supply chain with this premier warehouse facility.",
+      "price": "$5000/month",
+      "status": ["Sale"],
+      "area": "20,000 sq ft",
+      "location": "Industrial Zone A, City X",
+      "facilities": ["Loading docks", "Security system"],
+      "image": "https://i.ibb.co/yWxDFgm/image.png"
+    },
+    {
+      "id": "2",
+      "estate_title": "Modern Factory Complex",
+      "segment_name": "Factories",
+      "description": "State-of-the-art manufacturing facility with advanced machinery.",
+      "big_desc": "Experience the pinnacle of manufacturing excellence with this modern factory complex. Boasting cutting-edge machinery and innovative production processes, this facility is designed to meet the highest industry standards. Whether it's mass production or bespoke manufacturing, this factory offers versatility and efficiency. Situated in Industrial Park B, City Y, it enjoys a prime location with access to skilled labor and supportive infrastructure. Elevate your production capabilities and propel your business to new heights with this state-of-the-art factory complex.",
+      "price": "$2,000,000",
+      "status": ["Rent"],
+      "area": "50,000 sq ft",
+      "location": "Industrial Park B, City Y",
+      "facilities": ["Production lines", "Employee cafeteria"],
+      "image": "https://i.ibb.co/mvW4DD0/image.png"
+    },
+    {
+      "id": "3",
+      "estate_title": "Industrial Park Development Land",
+      "segment_name": "Industrial Parks",
+      "description": "Vacant land suitable for development into an industrial park.",
+      "big_desc": "Unlock the potential of this vast tract of industrial park development land. Spanning 100 acres on the outskirts of City Z, this prime real estate offers a blank canvas for creating a thriving industrial hub. With its strategic location and expansive layout, it presents endless opportunities for investors and developers. Whether it's establishing manufacturing facilities, warehousing complexes, or commercial spaces, this land parcel provides the foundation for ambitious ventures. Seize this chance to shape the future of industrial development with this premier land opportunity.",
+      "price": "$10,000,000",
+      "status": ["Sale"],
+      "area": "100 acres",
+      "location": "Outskirts of City Z",
+      "facilities": ["High Performance", "Warehouse Complexes"],
+      "image": "https://i.ibb.co/GJXmZ5K/image.png"
+    },
+    {
+      "id": "4",
+      "estate_title": "Cold Storage Warehouse",
+      "segment_name": "Cold Storage Facilities",
+      "description": "Specialized cold storage facility for perishable goods.",
+      "big_desc": "Ensure the freshness and quality of your perishable goods with this specialized cold storage warehouse. Featuring temperature-controlled storage rooms and freezer space, it provides the ideal environment for preserving sensitive products. Located in Industrial Zone C, City W, this facility offers convenient access to transportation networks, facilitating seamless distribution. From food to pharmaceuticals, trust this cold storage warehouse to maintain the integrity of your valuable inventory. Don't miss out on this essential asset for your supply chain management.",
+      "price": "$8000/month",
+      "status": ["Rent"],
+      "area": "10,000 sq ft",
+      "location": "Industrial Zone C, City W",
+      "facilities": ["Freezer space", "Loading bays"],
+      "image": "https://i.ibb.co/5jmybrB/image.png"
+    },
+    {
+      "id": "5",
+      "estate_title": "Power Plant Facility",
+      "segment_name": "Power Plants",
+      "description": "Operational power plant generating electricity for industrial and residential use.",
+      "big_desc": "Empower your operations with this fully operational power plant facility. Serving industrial and residential sectors alike, this facility generates reliable electricity to meet diverse energy needs. Equipped with generators, transformer stations, and a centralized control room, it ensures efficient power distribution and management. Situated adjacent to City P, it plays a crucial role in supporting local infrastructure and economic growth. Don't miss this opportunity to invest in a vital asset for powering your business and community.",
+      "price": "$20,000,000",
+      "status": ["Sale"],
+      "area": "10 acres",
+      "location": "Adjacent to City P",
+      "facilities": ["Generators", "Transformer station"],
+      "image": "https://i.ibb.co/28rGjZP/image.png"
+    },
+    {
+      "id": "6",
+      "estate_title": "Automobile Manufacturing Plant",
+      "segment_name": "Factories",
+      "description": "Specialized plant for manufacturing automobiles.",
+      "big_desc": "Step into the future of automotive manufacturing with this cutting-edge facility. From assembly lines to paint shops, this plant is meticulously designed to produce top-quality automobiles efficiently. With a sprawling footprint of 70,000 sq ft in Industrial Zone D, City Q, it offers ample space for innovation and expansion. Whether it's mass production or custom fabrication, this plant delivers precision and performance. Don't miss this opportunity to revolutionize the automotive industry with this state-of-the-art manufacturing facility.",
+      "price": "$15,000,000",
+      "status": ["Rent"],
+      "area": "70,000 sq ft",
+      "location": "Industrial Zone D, City Q",
+      "facilities": ["Assembly lines", "Paint shop"],
+      "image": "https://i.ibb.co/sbsqXMB/image.png"
+    }
+  ]
+}
