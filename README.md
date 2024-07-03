@@ -6,33 +6,6 @@ Realisto is your premier destination for discovering tailored real estate listin
 
 Live Link: [Realisto](https://realisto-e1cc0.web.app)
 
-## Installation
-
-To install the Realisto project on your local machine, follow these steps:
-
-1. **Clone the Repository**: Clone the repository to your local machine using the following command:
-   ```
-   git clone https://github.com/s-shahriar/Realisto.git
-   ```
-
-2. **Navigate to the Project Directory**: Change to the project directory:
-   ```
-   cd realisto
-   ```
-
-3. **Install Dependencies**: Install the required dependencies for both the client and server:
-   ```
-   npm install
-   ```
-
-4. **Start the Development Server**: Run the following command to start the development server:
-   ```
-   npm run dev
-   ```
-
-5. **Access the Application**: Open your browser and go to `http://localhost:3000` to view the application.
-
-
 ## Features
 
 - **Real Estate Listings**: Access a diverse range of real estate listings handpicked for businesses, including office spaces, retail stores, and industrial properties.
